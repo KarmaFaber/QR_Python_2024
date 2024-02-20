@@ -18,7 +18,7 @@ img=qr.make_image(fill_color="#1D1A39", black_color="white").convert('RGB')
 
 
 # Logo image path
-imagenLogo=r'C:\Users\maria\OneDrive\Escritorio\Python_2024\QR_Python\ver_1.0\logo_GH.png'
+imagenLogo=r'D:\Programación_2024\Python_2024\QR_Python\ver_1.0\logo_GH.png'
 logo=Image.open(imagenLogo)
 
 

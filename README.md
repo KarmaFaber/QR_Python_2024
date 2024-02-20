@@ -144,8 +144,8 @@ command prompt -> pip install Pillow
 
 
 <td>ver_2.0</td>
-<td>text</td>
-<td>text</td>
+<td>05_QR</td>
+<td>qrcode, Pillow, Tkinter</td>
 <td>text</td>
 <td>text</td>
 <td>text</td>
