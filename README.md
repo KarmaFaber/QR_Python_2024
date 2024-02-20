@@ -21,6 +21,7 @@ command prompt -> pip install Pillow
 ## ➾ Built With 
 
 #### ⇝ Windows 10.
+#### ⇝ GitHub v2.49.0
 ---
 
 #### ⇝ [Visual Studio Code](https://code.visualstudio.com/) - version 1.84.2 - 64 bit.
@@ -42,7 +43,7 @@ command prompt -> pip install Pillow
 
 <tr>
 <td>IntelliCode by <a href="https://www.microsoft.com/es-es/">Microfost </a> </td>
-<td>text</td>
+<td>v1.2.30</td>
 </tr>
 
 <tr>
@@ -85,7 +86,7 @@ command prompt -> pip install Pillow
 
 <tr>
 <td>Special modules</td>
-<td>text</td>
+<td>none</td>
 </tr>
 
 
@@ -141,6 +142,22 @@ command prompt -> pip install Pillow
 <td>none</td>
 </tr>
 
+
+<td>ver_2.0</td>
+<td>text</td>
+<td>text</td>
+<td>text</td>
+<td>text</td>
+<td>text</td>
+</tr>
+
+<td>Part 6</td>
+<td>text</td>
+<td>text</td>
+<td>text</td>
+<td>text</td>
+<td>text</td>
+</tr>
 
 
 </tbody>
