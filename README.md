@@ -1,6 +1,6 @@
 # ☠ QR code with Python
 
-One Paragraph of project description goes here
+Different variations of code in Python language to create QR code: learning project.
 
 ##  ➾ Getting Started 
 
@@ -85,8 +85,8 @@ command prompt -> pip install Pillow
 </tr>
 
 <tr>
-<td>Special modules</td>
-<td>none</td>
+<td>Special modules (my classes)</td>
+<td>MyModulesQR, MyModulesRoot</td>
 </tr>
 
 
@@ -144,14 +144,38 @@ command prompt -> pip install Pillow
 
 
 <td>ver_2.0</td>
-<td>05_QR</td>
+<td>05_QR.pyw</td>
 <td>qrcode, Pillow, Tkinter</td>
+<td>Main Project Root with all QR creator options ver_2.0. </td>
+<td>none</td>
+<td>Before running the code, make sure to download the modules mentioned below as they contain custom classes for the project.</td>
+</tr>
+
+<td>ver_2.0</td>
+<td>MyModulesQR.py</td>
+<td>qrcode, Pillow</td>
+<td>Class for creating QR code</td>
+<td>none</td>
+<td>Make sure to have installed the QRcode and Pillow libraries before running the code.</td>
+</tr>
+
+<td>ver_2.0</td>
+<td>MyModulesRoot.py</td>
+<td>Tkinter</td>
+<td>Class for creating aditional roots</td>
+<td>none</td>
+<td>none</td>
+</tr>
+
+<td>Part 8</td>
+<td>text</td>
+<td>text</td>
 <td>text</td>
 <td>text</td>
 <td>text</td>
 </tr>
 
-<td>Part 6</td>
+<td>Part 9</td>
 <td>text</td>
 <td>text</td>
 <td>text</td>
@@ -164,7 +188,48 @@ command prompt -> pip install Pillow
 </table>
 
 ---
+## ➾ Project parts: additional resources
 
+
+<table>
+<tbody>
+
+
+<td><b>Folder</b></td>
+<td><b>File name</b></td>
+<td><b>Description</b></td>
+</tr>
+
+<td>ver_1.0</td>
+<td>logo_GH.png</td>
+<td>GitHub logo</td>
+</tr>
+
+<td>ver_1.0</td>
+<td>logo_LI</td>
+<td>LinkedIn logo</td>
+</tr>
+
+<td>resources</td>
+<td>ColorPaleteMainRoot.png</td>
+<td>Main Root color palette</td>
+</tr>
+
+<td>resources</td>
+<td>text</td>
+<td>Secondary Roots color palette</td>
+</tr>
+
+<td>resources</td>
+<td>text</td>
+<td>text</td>
+</tr>
+
+
+
+</tbody>
+</table>
+---
 
 
 ## ➾ Contributing
