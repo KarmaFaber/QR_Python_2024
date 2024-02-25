@@ -14,7 +14,7 @@ qr.add_data(data)
 qr.make(fit=True)
 
 # variable imagen
-img=qr.make_image(fill_color="#1D1A39", black_color="white").convert('RGB')
+img=qr.make_image(fill_color="#1D1A39", back_color="white").convert('RGB')
 
 
 # Logo image path

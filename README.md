@@ -2,6 +2,7 @@
 
 Different variations of code in Python language to create QR code: learning project.
 
+
 ##  ➾ Getting Started 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -86,7 +87,7 @@ command prompt -> pip install Pillow
 
 <tr>
 <td>Special modules (my classes)</td>
-<td>MyModulesQR, MyModulesRoot</td>
+<td>none</td>
 </tr>
 
 
@@ -151,37 +152,6 @@ command prompt -> pip install Pillow
 <td>Before running the code, make sure to download the modules mentioned below as they contain custom classes for the project.</td>
 </tr>
 
-<td>ver_2.0</td>
-<td>MyModulesQR.py</td>
-<td>qrcode, Pillow</td>
-<td>Class for creating QR code</td>
-<td>none</td>
-<td>Make sure to have installed the QRcode and Pillow libraries before running the code.</td>
-</tr>
-
-<td>ver_2.0</td>
-<td>MyModulesRoot.py</td>
-<td>Tkinter</td>
-<td>Class for creating aditional roots</td>
-<td>none</td>
-<td>none</td>
-</tr>
-
-<td>Part 8</td>
-<td>text</td>
-<td>text</td>
-<td>text</td>
-<td>text</td>
-<td>text</td>
-</tr>
-
-<td>Part 9</td>
-<td>text</td>
-<td>text</td>
-<td>text</td>
-<td>text</td>
-<td>text</td>
-</tr>
 
 
 </tbody>
@@ -216,13 +186,13 @@ command prompt -> pip install Pillow
 </tr>
 
 <td>resources</td>
-<td>text</td>
-<td>Secondary Roots color palette</td>
+<td>ColorPaleteQR_URL_Root.png</td>
+<td>Secondary Roots color palette: URl + Logo</td>
 </tr>
 
 <td>resources</td>
-<td>text</td>
-<td>text</td>
+<td>ColorPaleteQR_URL_PD.png</td>
+<td>Secondary Roots color palette: Personal Data</td>
 </tr>
 
 
