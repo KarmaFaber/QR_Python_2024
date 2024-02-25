@@ -1,6 +1,7 @@
 # ☠ QR code with Python
 
-One Paragraph of project description goes here
+Different variations of code in Python language to create QR code: learning project.
+
 
 ##  ➾ Getting Started 
 
@@ -85,7 +86,7 @@ command prompt -> pip install Pillow
 </tr>
 
 <tr>
-<td>Special modules</td>
+<td>Special modules (my classes)</td>
 <td>none</td>
 </tr>
 
@@ -144,27 +145,61 @@ command prompt -> pip install Pillow
 
 
 <td>ver_2.0</td>
-<td>text</td>
-<td>text</td>
-<td>text</td>
-<td>text</td>
-<td>text</td>
+<td>05_QR.pyw</td>
+<td>qrcode, Pillow, Tkinter</td>
+<td>Main Project Root with all QR creator options ver_2.0. </td>
+<td>none</td>
+<td>Before running the code, make sure to download the modules mentioned below as they contain custom classes for the project.</td>
 </tr>
 
-<td>Part 6</td>
-<td>text</td>
-<td>text</td>
-<td>text</td>
-<td>text</td>
-<td>text</td>
-</tr>
 
 
 </tbody>
 </table>
 
 ---
+## ➾ Project parts: additional resources
 
+
+<table>
+<tbody>
+
+
+<td><b>Folder</b></td>
+<td><b>File name</b></td>
+<td><b>Description</b></td>
+</tr>
+
+<td>ver_1.0</td>
+<td>logo_GH.png</td>
+<td>GitHub logo</td>
+</tr>
+
+<td>ver_1.0</td>
+<td>logo_LI</td>
+<td>LinkedIn logo</td>
+</tr>
+
+<td>resources</td>
+<td>ColorPaleteMainRoot.png</td>
+<td>Main Root color palette</td>
+</tr>
+
+<td>resources</td>
+<td>ColorPaleteQR_URL_Root.png</td>
+<td>Secondary Roots color palette: URl + Logo</td>
+</tr>
+
+<td>resources</td>
+<td>ColorPaleteQR_URL_PD.png</td>
+<td>Secondary Roots color palette: Personal Data</td>
+</tr>
+
+
+
+</tbody>
+</table>
+---
 
 
 ## ➾ Contributing

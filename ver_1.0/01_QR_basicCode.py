@@ -13,5 +13,5 @@ qr=qrcode.QRCode(version=1,error_correction=qrcode.constants.ERROR_CORRECT_L, bo
 data="https://github.com/KarmaFaber"
 qr.add_data(data)
 qr.make(fit=True)
-img=qr.make_image(fill_color="#0077B5", black_color="white")
+img=qr.make_image(fill_color="#0077B5", back_color="white")
 img.save("created_QR_code_01.png")

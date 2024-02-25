@@ -37,10 +37,10 @@ def print_QR_image():
     data = url_var
     qr.add_data(data)
     qr.make(fit=True)
-    img = qr.make_image(fill_color="#0077B5", black_color="white")
+    img = qr.make_image(fill_color="#0077B5", back_color="white")
 
     # Logo image path
-    imagenLogo = r'C:\Users\maria\OneDrive\Escritorio\Python_2024\QR_Python\ver_1.0\logo_GH.png'
+    imagenLogo = r'D:\Programación_2024\Python_2024\QR_Python\ver_1.0\logo_GH.png'
     logo = Image.open(imagenLogo)
 
     # Calculate logo position
