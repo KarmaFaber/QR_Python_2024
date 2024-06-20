@@ -41,7 +41,7 @@ def print_QR_contact():
     qr = qrcode.QRCode(version=1, error_correction=qrcode.constants.ERROR_CORRECT_L, box_size=10, border=4)
     qr.add_data(contact_info)
     qr.make(fit=True)
-    img = qr.make_image(fill_color="#0077B5", black_color="white")
+    img = qr.make_image(fill_color="#0077B5", back_color="white")
     img.save("qr_contact.png")
 
     # image + Image_Label
