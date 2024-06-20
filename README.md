@@ -85,10 +85,7 @@ command prompt -> pip install Pillow
 <td> qrcode, Pillow, tkinter </td>
 </tr>
 
-<tr>
-<td>Special modules (my classes)</td>
-<td>none</td>
-</tr>
+
 
 
 </tbody>
@@ -157,7 +154,7 @@ command prompt -> pip install Pillow
 </tbody>
 </table>
 
----
+
 ## ➾ Project parts: additional resources
 
 
@@ -195,11 +192,9 @@ command prompt -> pip install Pillow
 <td>Secondary Roots color palette: Personal Data</td>
 </tr>
 
-
-
 </tbody>
 </table>
----
+
 
 
 ## ➾ Contributing
